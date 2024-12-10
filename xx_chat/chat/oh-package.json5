@@ -1,9 +1,18 @@
 {
-  "name": "chat",
+  "name": "@xx/chat",
   "version": "1.0.0",
-  "description": "Please describe the basic information.",
+  //  描述
+  "description": "Ai对话UI组件，聊天窗口UI组件",
+  //  关键词
+  "keywords": [
+    "AI",
+    "chat",
+    "typewriter"
+  ],
   "main": "Index.ets",
-  "author": "",
-  "license": "Apache-2.0",
+  "author": "左祥祥",
+  "homepage": "https://gitee.com/Zshuaixxx/xx-chat-hm",
+  "repository": "https://gitee.com/Zshuaixxx/xx-chat-hm",
+  "license": "MIT",
   "dependencies": {}
 }
